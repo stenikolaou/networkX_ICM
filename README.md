@@ -1,1 +1,1 @@
-# Independent Cascade Model implementaiton using NetworkX library
+# Independent Cascade Model implementation using NetworkX library
