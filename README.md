@@ -6,7 +6,7 @@ Also, through the application the system administrator will be able to manage th
 
 # "ego-Facebook" graph
 A graph created based on "ego-Facebook" [dataset](https://snap.stanford.edu/data/ego-Facebook.html)
-![](Images/LabHomeScreen.png)
+![](Images/fb_graph.png)
 
 # ControlPanel screenshot
-![](Images/LabControlPanel.png)
+![](Images/fb_graph.png)
